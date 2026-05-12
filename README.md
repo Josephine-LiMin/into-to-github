@@ -27,6 +27,6 @@ I'm a curious creator who enjoys turning ideas into practical projects. I love c
 ## 📈 GitHub Stats
 
 <!-- GitHub Stats Card Placeholder -->
-_Stats card placeholder — replace `YOUR_USERNAME` with your GitHub username:_
+_Replace `YOUR_USERNAME` with your GitHub username:_
 
-`https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default`
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
